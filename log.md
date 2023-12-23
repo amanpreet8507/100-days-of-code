@@ -8,3 +8,11 @@
 
 **Link to work:** https://github.com/amanpreet8507/JavaScript-Functions/tree/main
 
+
+### Day 1: December 2, 2023
+
+**Today's Progress**: Javascript Advanced Functions.
+
+**Thoughts:** Practiced Advanced Javascript Functions
+
+**Link to work:** https://github.com/amanpreet8507/JavaScript-Advanced-Functions
