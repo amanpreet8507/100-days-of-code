@@ -8,3 +8,4 @@ The log of my #100DaysOfCode challenge. Started on [December 21, 2023].
 Javascript functions
 
 ### R1D2
+Advanced Javascript Functions
