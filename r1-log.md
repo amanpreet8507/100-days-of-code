@@ -4,8 +4,11 @@ The log of my #100DaysOfCode challenge. Started on [December 21, 2023].
 
 ## Log
 
-### R1D1 
+### R1D0
 Javascript functions
 
-### R1D2
+### R1D1
 Advanced Javascript Functions
+
+### R1D2
+Added html code for new bandsite project started on today
