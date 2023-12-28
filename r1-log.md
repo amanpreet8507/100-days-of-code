@@ -12,3 +12,15 @@ Advanced Javascript Functions
 
 ### R1D2
 Added html code for new bandsite project started on today
+
+### R1D3
+Added basic sass code and partials to use for website
+
+### R1D4
+Added mobile responsive sass code
+
+### R1D5
+Added tablet responsive sass code
+
+### R1D6
+Added desktop responsive sass code
