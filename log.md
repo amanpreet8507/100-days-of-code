@@ -93,7 +93,7 @@
 
 **Link to work:** https://github.com/amanpreet8507/amanpreet-kaur-bandsite/blob/main/index.html
 
-### Day 11: January 1, 2024
+### Day 12: January 2, 2024
 
 **Today's Progress**: javascript dom & events and async practice
 **Thoughts:** Practicing lab for js dom and events async usage
