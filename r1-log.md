@@ -11,7 +11,7 @@ Javascript functions
 Advanced Javascript Functions
 
 ### R1D2
-Added html code for new bandsite project started on today
+Added html code for new bandsite project (branch-> sprint1) started on today
 
 ### R1D3
 Added basic sass code and partials to use for website
@@ -35,10 +35,17 @@ learned hover and opacity effects Thoughts: Added code to bio.scss and other rel
 learned hover and opacity effects Thoughts: Added code to bio.scss and other relative files
 
 ### R1D10
-learned bem deeply and gave better names to html tag classes Thoughts: Added code to index.html and other relative files
+learned bem deeply and gave better names to html tag classes applied to bandsite sprint 1
 
 ### R1D11
-DRY code and done with sprint 1 of bandsite Thoughts: Added code to index.html and other relative files
+DRY code and done with sprint 1 of bandsite
 
 ### R1D12
+Starting on learning new functionalities of javascript for bandsite sprint-2
 javascript dom & events and async practice deeply
+
+### R1D13
+html form parctice which includes dom functionalities and effective use of html form
+
+### R1D14
+full practice on javascript higher order functions
