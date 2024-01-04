@@ -29,7 +29,7 @@ Added desktop responsive sass code
 Fixed margin and padding issues with the team Thoughts: Added code 
 
 ### R1D8
-Today's Progress: learned hover and opacity effects Thoughts: Added code to bio.scss and other relative files
+learned hover and opacity effects Thoughts: Added code to bio.scss and other relative files
 
 ### R1D9
 learned hover and opacity effects Thoughts: Added code to bio.scss and other relative files
@@ -38,4 +38,7 @@ learned hover and opacity effects Thoughts: Added code to bio.scss and other rel
 learned bem deeply and gave better names to html tag classes Thoughts: Added code to index.html and other relative files
 
 ### R1D11
-Today's Progress: DRY code and done with sprint 1 of bandsite Thoughts: Added code to index.html and other relative files
+DRY code and done with sprint 1 of bandsite Thoughts: Added code to index.html and other relative files
+
+### R1D12
+javascript dom & events and async practice deeply
