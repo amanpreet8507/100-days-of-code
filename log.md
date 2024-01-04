@@ -57,3 +57,38 @@
 **Thoughts:** Added code to bio.scss(desktop responsive)
 
 **Link to work:** https://github.com/amanpreet8507/amanpreet-kaur-bandsite/tree/sprint-1
+
+### Day 7: December 28, 2023
+
+**Today's Progress**: Fixed margin and padding issues with the team
+**Thoughts:** Added code to bio.scss and other relative files
+
+**Link to work:** https://github.com/amanpreet8507/amanpreet-kaur-bandsite/tree/main
+
+### Day 8: December 29, 2023
+
+**Today's Progress**: learned hover and opacity effects
+**Thoughts:** Added code to bio.scss and other relative files
+
+**Link to work:** https://github.com/amanpreet8507/amanpreet-kaur-bandsite/tree/main
+
+### Day 9: December 30, 2023
+
+**Today's Progress**: learned hover and opacity effects
+**Thoughts:** Added code to bio.scss and other relative files
+
+**Link to work:** https://github.com/amanpreet8507/amanpreet-kaur-bandsite/tree/main
+
+### Day 10: December 31, 2023
+
+**Today's Progress**: learned bem deeply and gave better names to html tag classes
+**Thoughts:** Added code to index.html and other relative files
+
+**Link to work:** https://github.com/amanpreet8507/amanpreet-kaur-bandsite/blob/main/index.html
+
+### Day 11: January 1, 2024
+
+**Today's Progress**: DRY code and done with sprint 1 of bandsite
+**Thoughts:** Added code to index.html and other relative files
+
+**Link to work:** https://github.com/amanpreet8507/amanpreet-kaur-bandsite/blob/main/index.html
