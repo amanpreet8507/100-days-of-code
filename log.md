@@ -92,3 +92,12 @@
 **Thoughts:** Added code to index.html and other relative files
 
 **Link to work:** https://github.com/amanpreet8507/amanpreet-kaur-bandsite/blob/main/index.html
+
+### Day 11: January 1, 2024
+
+**Today's Progress**: javascript dom & events and async practice
+**Thoughts:** Practicing lab for js dom and events async usage
+
+**Link to work:** https://github.com/amanpreet8507/javascript-dom
+**Link to work:** https://github.com/amanpreet8507/javascript-events-and-async
+
