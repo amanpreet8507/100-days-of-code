@@ -101,3 +101,15 @@
 **Link to work:** https://github.com/amanpreet8507/javascript-dom
 **Link to work:** https://github.com/amanpreet8507/javascript-events-and-async
 
+Day 13: January 3, 2024
+Today's Progress: html form parctice
+**Thoughts:** includes dom functionalities and effective use of html form
+
+Link to work: https://github.com/amanpreet8507/html-form
+
+
+Day 14: January 4, 2024
+Today's Progress: full practice on javascript higher order functions
+**Thoughts:** Creating higher-order functions that takes a function as an argument and trying out some array methods that are also higher order functions
+
+Link to work: https://github.com/amanpreet8507/js-higher-order-functions
