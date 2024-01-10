@@ -49,3 +49,23 @@ html form parctice which includes dom functionalities and effective use of html 
 
 ### R1D14
 full practice on javascript higher order functions
+
+### R1D15
+
+### R1D16
+Bandsite sprint-2 started
+Successfully completed the comment section for the biography page, actively engaged with the Document Object Model (DOM).
+
+### R1D17
+Today's Progress: Bandstie sprint-2: started working on shows page
+**Thoughts:** Enhanced responsiveness, crafted the shows.html file, developed build-shows-page.js, and introduced additional variables for seamless reuse across distinct pages.
+
+### R1D18
+
+### R1D19
+Bandsite sprint-2: Some modifiacation in files of Bandsite
+Implemented front-end enhancements, incorporated additional effects, and refined code filtering for an improved user experience.
+
+### R1D120
+Destructing in JavaScript ES6: Rest and Spread operators
+
