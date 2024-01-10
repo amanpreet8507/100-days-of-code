@@ -101,54 +101,54 @@
 **Link to work:** https://github.com/amanpreet8507/javascript-dom
 **Link to work:** https://github.com/amanpreet8507/javascript-events-and-async
 
-Day 13: January 3, 2024
-Today's Progress: html form parctice
+### Day 13: January 3, 2024
+**Today's Progress**: html form parctice
 **Thoughts:** includes dom functionalities and effective use of html form
 
-Link to work: https://github.com/amanpreet8507/html-form
+**Link to work:** https://github.com/amanpreet8507/html-form
 
 
-Day 14: January 4, 2024
-Today's Progress: full practice on javascript higher order functions
+### Day 14: January 4, 2024
+**Today's Progress**: full practice on javascript higher order functions
 **Thoughts:** Creating higher-order functions that takes a function as an argument and trying out some array methods that are also higher order functions
 
-Link to work: https://github.com/amanpreet8507/js-higher-order-functions
+**Link to work:** https://github.com/amanpreet8507/js-higher-order-functions
 
 
-Day 15: January 5, 2024
-Today's Progress: practice on web api and axios
+### Day 15: January 5, 2024
+**Today's Progress**: practice on web api and axios
 **Thoughts:** Use of web api and fetching data using axios
 
-Link to work: https://github.com/amanpreet8507/web-api-and-axios
+**Link to work:** https://github.com/amanpreet8507/web-api-and-axios
 
 
-Day 16: January 6, 2024
-Today's Progress: Bandsite sprint-2 started
+### Day 16: January 6, 2024
+**Today's Progress**: Bandsite sprint-2 started
 **Thoughts:** Successfully completed the comment section for the biography page, actively engaged with the Document Object Model (DOM).
 
-Link to work: https://github.com/amanpreet8507/amanpreet-kaur-bandsite
+**Link to work:** https://github.com/amanpreet8507/amanpreet-kaur-bandsite
 
-Day 17: January 7, 2024
-Today's Progress: Bandstie sprint-2: started working on shows page
+### Day 17: January 7, 2024
+**Today's Progress**: Bandstie sprint-2: started working on shows page
 **Thoughts:** Enhanced responsiveness, crafted the shows.html file, developed build-shows-page.js, and introduced additional variables for seamless reuse across distinct pages.
 
-Link to work: https://github.com/amanpreet8507/amanpreet-kaur-bandsite
+**Link to work:** https://github.com/amanpreet8507/amanpreet-kaur-bandsite
 
-Day 18: January 8, 2024
-Today's Progress: Axios, Promises, fetching data and displaying it using dom elements
+### Day 18: January 8, 2024
+**Today's Progress**: Axios, Promises, fetching data and displaying it using dom elements
 **Thoughts:** Utilizing Axios, Promises, and proficiently implementing data fetching mechanisms, coupled with the dynamic manipulation of DOM elements.
 
-Link to work: https://github.com/amanpreet8507/javascript-promises
+**Link to work:** https://github.com/amanpreet8507/javascript-promises
 
 
-Day 19: January 9, 2024
-Today's Progress: Bandsite sprint-2: Some modifiacation in files of Bandsite
+### Day 19: January 9, 2024
+**Today's Progress**: Bandsite sprint-2: Some modifiacation in files of Bandsite
 **Thoughts:** Implemented front-end enhancements, incorporated additional effects, and refined code filtering for an improved user experience.
 
-Link to work: https://github.com/amanpreet8507/amanpreet-kaur-bandsite
+**Link to work:** https://github.com/amanpreet8507/amanpreet-kaur-bandsite
 
-Day 20: January 10, 2024
-Today's Progress: Moder Javascript exports and imports, Destructing
+### Day 20: January 10, 2024
+**Today's Progress**: Moder Javascript exports and imports, Destructing
 **Thoughts:** Practiced module exports and imports Rest and Spread operators
 
-Link to work: https://github.com/amanpreet8507/modern-js
+**Link to work:** https://github.com/amanpreet8507/modern-js
