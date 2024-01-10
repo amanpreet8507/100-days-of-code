@@ -135,10 +135,10 @@ Today's Progress: Bandstie sprint-2: started working on shows page
 Link to work: https://github.com/amanpreet8507/amanpreet-kaur-bandsite
 
 Day 18: January 8, 2024
-Today's Progress: 
-**Thoughts:** 
+Today's Progress: Axios, Promises, fetching data and displaying it using dom elements
+**Thoughts:** Utilizing Axios, Promises, and proficiently implementing data fetching mechanisms, coupled with the dynamic manipulation of DOM elements.
 
-Link to work: 
+Link to work: https://github.com/amanpreet8507/javascript-promises
 
 
 Day 19: January 9, 2024
@@ -148,7 +148,7 @@ Today's Progress: Bandsite sprint-2: Some modifiacation in files of Bandsite
 Link to work: https://github.com/amanpreet8507/amanpreet-kaur-bandsite
 
 Day 20: January 10, 2024
-Today's Progress: Destructing in JavaScript
-**Thoughts:** Rest and Spread operators
+Today's Progress: Moder Javascript exports and imports, Destructing
+**Thoughts:** Practiced module exports and imports Rest and Spread operators
 
-Link to work: 
+Link to work: https://github.com/amanpreet8507/modern-js
