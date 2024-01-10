@@ -58,10 +58,11 @@ Bandsite sprint-2 started
 Successfully completed the comment section for the biography page, actively engaged with the Document Object Model (DOM).
 
 ### R1D17
-Today's Progress: Bandstie sprint-2: started working on shows page
-**Thoughts:** Enhanced responsiveness, crafted the shows.html file, developed build-shows-page.js, and introduced additional variables for seamless reuse across distinct pages.
+Bandstie sprint-2: started working on shows page
+Enhanced responsiveness, crafted the shows.html file, developed build-shows-page.js, and introduced additional variables for seamless reuse across distinct pages.
 
 ### R1D18
+Utilizing Axios, Promises, and proficiently implementing data fetching mechanisms, coupled with the dynamic manipulation of DOM elements.
 
 ### R1D19
 Bandsite sprint-2: Some modifiacation in files of Bandsite
