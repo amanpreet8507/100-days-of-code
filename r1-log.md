@@ -51,6 +51,7 @@ html form parctice which includes dom functionalities and effective use of html 
 full practice on javascript higher order functions
 
 ### R1D15
+Use of web api and fetching data using axios
 
 ### R1D16
 Bandsite sprint-2 started
