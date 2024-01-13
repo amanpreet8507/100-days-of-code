@@ -152,3 +152,13 @@
 **Thoughts:** Practiced module exports and imports Rest and Spread operators
 
 **Link to work:** https://github.com/amanpreet8507/modern-js
+
+### Day 21: January 11, 2024
+**Today's Progress**: Working with api get and post
+**Thoughts:** Bandsite Sprint 3: Instead of pusing comments and shows to array, used api get and post to perform the same functionality
+**Link to work:** https://github.com/amanpreet8507/amanpreet-kaur-bandsite
+
+### Day 22: January 12, 2024
+**Today's Progress**: Program Hackathon
+**Thoughts:** Worked in a team for hackathon project
+**Link to work:** https://github.com/amanpreet8507/dad-jokes
