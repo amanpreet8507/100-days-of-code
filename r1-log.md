@@ -71,3 +71,9 @@ Implemented front-end enhancements, incorporated additional effects, and refined
 ### R1D120
 Destructing in JavaScript ES6: Rest and Spread operators
 
+### R1D121
+Bandsite Sprint 3: Instead of pusing comments and shows to array, used api get and post to perform the same functionality
+
+### R1D122
+Program Hackathon: Worked in a team for hackathon project
+
