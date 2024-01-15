@@ -162,3 +162,18 @@
 **Today's Progress**: Program Hackathon
 **Thoughts:** Worked in a team for hackathon project
 **Link to work:** https://github.com/amanpreet8507/dad-jokes
+
+### Day 23: January 13, 2024
+**Today's Progress**: Developed BandSite Sprint 3
+**Thoughts:** Worked on changing timestamps to date and reverse the comments: latest comments on top
+**Link to work:** https://github.com/amanpreet8507/amanpreet-kaur-bandsite
+
+### Day 25: January 14, 2024
+**Today's Progress**: Developed Bandsite Sprint 3 and Last day of Bandsite project
+**Thoughts:** Added like and delete button to Comments section
+**Link to work:** https://github.com/amanpreet8507/amanpreet-kaur-bandsite
+
+### Day 25: January 15, 2024
+**Today's Progress**: React Practice
+**Thoughts:** React- Creating components and usage of components
+**Link to work:** https://github.com/amanpreet8507/react-intro
