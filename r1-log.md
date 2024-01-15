@@ -77,3 +77,12 @@ Bandsite Sprint 3: Instead of pusing comments and shows to array, used api get a
 ### R1D122
 Program Hackathon: Worked in a team for hackathon project
 
+### R1D123
+Developed BandSite Sprint 3: Worked on changing timestamps to date and reverse the comments: latest comments on top
+
+### R1D124
+Developed Bandsite Sprint 3 and Last day of Bandsite project: Added like and delete button to Comments section
+
+### R1D125
+React Practice: Creating components and usage of components
+
