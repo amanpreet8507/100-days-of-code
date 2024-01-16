@@ -168,7 +168,7 @@
 **Thoughts:** Worked on changing timestamps to date and reverse the comments: latest comments on top
 **Link to work:** https://github.com/amanpreet8507/amanpreet-kaur-bandsite
 
-### Day 25: January 14, 2024
+### Day 24: January 14, 2024
 **Today's Progress**: Developed Bandsite Sprint 3 and Last day of Bandsite project
 **Thoughts:** Added like and delete button to Comments section
 **Link to work:** https://github.com/amanpreet8507/amanpreet-kaur-bandsite
@@ -177,3 +177,8 @@
 **Today's Progress**: React Practice
 **Thoughts:** React- Creating components and usage of components
 **Link to work:** https://github.com/amanpreet8507/react-intro
+
+### Day 26: January 16, 2024
+**Today's Progress**: React Overall Practice
+**Thoughts:** React- jsx codealong with BrainStation team
+**Link to work:** https://github.com/amanpreet8507/jsx-codealong
