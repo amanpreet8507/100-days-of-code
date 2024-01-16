@@ -68,21 +68,24 @@ Utilizing Axios, Promises, and proficiently implementing data fetching mechanism
 Bandsite sprint-2: Some modifiacation in files of Bandsite
 Implemented front-end enhancements, incorporated additional effects, and refined code filtering for an improved user experience.
 
-### R1D120
+### R1D20
 Destructing in JavaScript ES6: Rest and Spread operators
 
-### R1D121
+### R1D21
 Bandsite Sprint 3: Instead of pusing comments and shows to array, used api get and post to perform the same functionality
 
-### R1D122
+### R1D22
 Program Hackathon: Worked in a team for hackathon project
 
-### R1D123
+### R1D23
 Developed BandSite Sprint 3: Worked on changing timestamps to date and reverse the comments: latest comments on top
 
-### R1D124
+### R1D24
 Developed Bandsite Sprint 3 and Last day of Bandsite project: Added like and delete button to Comments section
 
-### R1D125
+### R1D25
 React Practice: Creating components and usage of components
+
+### R1D26
+React Overall Practice on Concepts, React- jsx codealong with BrainStation team
 
