@@ -272,7 +272,7 @@
 
 **Link to work:** https://github.com/amanpreet8507/react-router
 
-### Day 32: January 22, 2024
+### Day 33: January 23, 2024
 
 **Today's Progress**: Practice useEffect and fetch data from api
 
