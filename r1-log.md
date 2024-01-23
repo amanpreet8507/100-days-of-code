@@ -89,3 +89,20 @@ React Practice: Creating components and usage of components
 ### R1D26
 React Overall Practice on Concepts, React- jsx codealong with BrainStation team
 
+### R1D27
+react props and react state
+
+### R1D28
+Started new ract project Brainflix sprint 1: Navbar
+
+### R1D29
+Brainflix Sprint 1: Videos list
+
+### R1D30
+Brainflix Sprint 1: Featured Video
+
+### R1D31
+Brainflix Sprint 1: Videos Desctiption
+
+### R1D32
+react router and use params
