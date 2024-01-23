@@ -182,3 +182,33 @@
 **Today's Progress**: React Overall Practice
 **Thoughts:** React- jsx codealong with BrainStation team
 **Link to work:** https://github.com/amanpreet8507/jsx-codealong
+
+### Day 27: January 17, 2024
+**Today's Progress**: Practice react props and react state
+**Thoughts:** react props and react state
+**Link to work:** https://github.com/amanpreet8507/react-props
+
+### Day 28: January 18, 2024
+**Today's Progress**: Started new ract project: Brainflix
+**Thoughts:** Sprint 1 started, navbar imported for all screen sizes
+**Link to work:** https://github.com/amanpreet8507/amanpreet-kaur-brainflix
+
+### Day 29: January 19, 2024
+**Today's Progress**: Brainflix Sprint 1: Videos list
+**Thoughts:** Imported videos list and settled the ui to be responsive
+**Link to work:** https://github.com/amanpreet8507/amanpreet-kaur-brainflix
+
+### Day 30: January 20, 2024
+**Today's Progress**: Brainflix Sprint 1: Fetured Video
+**Thoughts:** Worked on featured video component
+**Link to work:** https://github.com/amanpreet8507/amanpreet-kaur-brainflix
+
+### Day 31: January 21, 2024
+**Today's Progress**: Brainflix Sprint 1: Video Description
+**Thoughts:** Worked on featured video desctiption component and done with sprint 1
+**Link to work:** https://github.com/amanpreet8507/amanpreet-kaur-brainflix
+
+### Day 32: January 22, 2024
+**Today's Progress**: Practice react router
+**Thoughts:** react router and use params
+**Link to work:** https://github.com/amanpreet8507/react-router
