@@ -280,3 +280,11 @@
 
 **Link to work:** https://github.com/amanpreet8507/react-useEffect-axios
 
+### Day 34: January 24, 2024
+
+**Today's Progress**: In react, fetched api data and brought it on ui
+
+**Thoughts:** React practice
+
+**Link to work:** https://github.com/amanpreet8507movies-app
+
