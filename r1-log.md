@@ -106,3 +106,7 @@ Brainflix Sprint 1: Videos Desctiption
 
 ### R1D32
 react router and use params
+
+### R1D33
+In react, fetch api data and show it on ui
+
