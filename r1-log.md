@@ -110,3 +110,8 @@ react router and use params
 ### R1D33
 In react, fetch api data and show it on ui
 
+### R1D34
+Learned Local Storage of Data in the browser for front-end
+
+### R1D35
+Brainflix Sprint 2: Add required components and made Video upload page
