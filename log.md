@@ -288,3 +288,19 @@
 
 **Link to work:** https://github.com/amanpreet8507movies-app
 
+
+### Day 35: January 25, 2024
+
+**Today's Progress**: Practiced how to do local storage in the browser
+
+**Thoughts:** Storing data locally in the browser for front end
+
+**Link to work:** https://github.com/amanpreet8507/local-storage-in-the-browser
+
+### Day 36: January 26, 2024
+
+**Today's Progress**: Brainflix Sprint 2: Added required Components in project 
+
+**Thoughts:** Made video upload page
+
+**Link to work:** https://github.com/amanpreet8507/amanpreet-kaur-brainflix
