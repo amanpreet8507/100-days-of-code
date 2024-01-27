@@ -107,11 +107,11 @@ Brainflix Sprint 1: Videos Desctiption
 ### R1D32
 react router and use params
 
-### R1D33
+### R1D34
 In react, fetch api data and show it on ui
 
-### R1D34
+### R1D35
 Learned Local Storage of Data in the browser for front-end
 
-### R1D35
+### R1D36
 Brainflix Sprint 2: Add required components and made Video upload page
