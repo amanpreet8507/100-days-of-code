@@ -118,3 +118,11 @@ Learned Local Storage of Data in the browser for front-end
 
 ### R1D36
 Brainflix Sprint 2: Add required components and made Video upload page
+
+### R1D37
+Practice fetching data from two different api's having different kind of data
+
+### R1D38
+Code improvments by removing extra code and maintained its quality
+
+### R1D39
