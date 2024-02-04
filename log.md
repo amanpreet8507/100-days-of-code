@@ -304,3 +304,75 @@
 **Thoughts:** Made video upload page
 
 **Link to work:** https://github.com/amanpreet8507/amanpreet-kaur-brainflix
+
+### Day 37: January 27, 2024
+
+**Today's Progress**: Brainflix Sprint 2: Added api functionality
+
+**Thoughts:** Practice fetching data from two different api's having different kind of data
+
+**Link to work:** https://github.com/amanpreet8507/amanpreet-kaur-brainflix
+
+### Day 38: January 28, 2024
+
+**Today's Progress**: Brainflix Sprint 2: Code improvments by removing extra code and maintained its quality
+
+**Thoughts:** Filtered the Brainflix Sprint 2 code
+
+**Link to work:** https://github.com/amanpreet8507/amanpreet-kaur-brainflix
+
+### Day 39: January 29, 2024
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 40: January 30, 2024
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 41: January 31, 2024
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 42: Feburary 01, 2024
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 43: Feburary 02, 2024
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 44: Feburary 03, 2024
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 45: Feburary 04, 2024
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
